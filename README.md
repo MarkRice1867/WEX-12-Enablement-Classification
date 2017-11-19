@@ -52,7 +52,7 @@ tutorials have no prior knowledge of any of the technology used. If there is an 
 
 3.  More steps
 
-4. Click **Add Collection**. ![alt text](images/tutorials/xxx.png "Add Collection Button")
+4. Click **Add Collection**. ![alt text](images/tutorials/AddCollection.png "Add Collection Button")
 
  * bla bla 
  
