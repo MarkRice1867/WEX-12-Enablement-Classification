@@ -19,9 +19,11 @@ Supply the link to the Github project that contains the code used in the tutoria
 
 [In this tutorial you will: 
   
-    * Do this
-    * Then this
-    * Then this]
+    * Gain underdstanding into what document classification is
+    * Learn common use cases for document classifcation
+    * Define, build and train a document classifier
+    * Deploy a document classifier, then test and refine it
+    * Run a document clsassiier against a collection and view results
 
 <!-- If you need to include content for IBMers only, add the content within the ibm Only tags. For example: -->
 
@@ -34,7 +36,7 @@ tutorials have no prior knowledge of any of the technology used. If there is an 
 
 2. Make sure Docker is running.
 
-3.  Other requirements
+3. You will need the sample training data for building and training the document classifier. These can be found here.
 
 <-- -------------------------------------------- -->
 
