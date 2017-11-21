@@ -42,7 +42,13 @@ tutorials have no prior knowledge of any of the technology used. If there is an 
 
 # Task 1 - Gather Suitable Training Data
 
+The first step to building a classifier is to gather the data that will be used to train the classifier. This data should contain all relevant meta data fields, the document body and a lable that disignates to which category (or categories) it belongs. For this tutorial we will use two .csv files as training data. They can be found in the XXXXXX directory. 
+Take a moment to look at the content of the file XXXXXX:
+![alt text](images/tutorials/DataFile1.png "Classifier Training Data")
+
+Notice that the file contains a number of meta data a
 [Provide introductory information about this task here.  Explain what it is that they will be doing in the task and, more importantly, why they are doing it.]
+
 
 <!--Provide the steps for the first task in the tutorial below.  Some example steps are provided below.  These example steps show you how to use markdown formatting for bold text, inserting images, and bulleted lists.-->
 
