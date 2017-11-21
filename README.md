@@ -42,11 +42,15 @@ tutorials have no prior knowledge of any of the technology used. If there is an 
 
 # Task 1 - Gather Suitable Training Data
 
-The first step to building a classifier is to gather the data that will be used to train the classifier. This data should contain all relevant meta data fields, the document body and a lable that disignates to which category (or categories) it belongs. For this tutorial we will use two .csv files as training data. They can be found in the XXXXXX directory. 
+The first step to building a classifier is to gather the data that will be used to train the classifier. This data should contain all relevant meta data fields, the document body and a label that disignates to which category (or categories) it belongs. For this tutorial we will use two .csv files as training data. They can be found in the XXXXXX directory. 
 Take a moment to look at the content of the file XXXXXX:
 ![alt text](images/tutorials/DataFile1.png "Classifier Training Data")
 
-Notice that the file contains a number of meta data a
+Notice that the file contains a number of meta data fields, along with the actrual content (body) and a category (label). One of the nice features of the document classifier is the ability to use meta data to help train the classifier. In building a training set, you should keep in mind the foillowing guidelines:
+    * Always use representative data - that is, data that is similar to what will be classified in production
+    * The categories should have as little overlap as possible
+    * Define, build and train a document classifier
+    * Deploy a docu
 [Provide introductory information about this task here.  Explain what it is that they will be doing in the task and, more importantly, why they are doing it.]
 
 
