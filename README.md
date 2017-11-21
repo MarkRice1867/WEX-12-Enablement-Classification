@@ -40,7 +40,7 @@ tutorials have no prior knowledge of any of the technology used. If there is an 
 
 <-- -------------------------------------------- -->
 
-# Task 1 - Name of first task
+# Task 1 - Gather Suitable Training Data
 
 [Provide introductory information about this task here.  Explain what it is that they will be doing in the task and, more importantly, why they are doing it.]
 
